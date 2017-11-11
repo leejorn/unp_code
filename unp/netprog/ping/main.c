@@ -173,4 +173,6 @@ int main(int argc, char **argv)
 	recv_ping();	/* and start the receive */
 
 	/* NOTREACHED */
+
+	//这里测试一样
 }
